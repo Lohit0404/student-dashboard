@@ -32,9 +32,11 @@ STUDENT-DASHBOARD
  │── script.js # JavaScript logic
  
 ---
-
+DashBoard
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/dashboard.png)
+Charts
 ![Charts Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/charts.png)
+Responsive View
 ![Responsive Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/responsive.png)
 
 
