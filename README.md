@@ -33,6 +33,11 @@ STUDENT-DASHBOARD
  
 ---
 
+![Dashboard Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/dashboard.png)
+![Charts Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/charts.png)
+![Responsive Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/responsive.png)
+
+
 ## ⚙️ Setup Instructions  
 
 Follow these steps to run the project locally:  
