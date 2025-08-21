@@ -64,9 +64,9 @@ The app will run on http://localhost:5500 (or similar).
 
 📸 Screenshots
 
-![Dashboard Screenshot](screenshots/dashboard.png)  
-![Charts Screenshot](screenshots/charts.png)  
-![Responsive Screenshot](screenshots/responsive.png)
+![Dashboard Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/dashboard.png)
+![Charts Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/charts.png)
+![Responsive Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/responsive.png)
 
 ---
 
