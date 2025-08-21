@@ -32,6 +32,8 @@ STUDENT-DASHBOARD
  │── script.js # JavaScript logic
  
 ---
+📸 Screenshots 
+
 DashBoard
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/dashboard.png)
 Charts
@@ -39,6 +41,7 @@ Charts
 Responsive View
 ![Responsive Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/responsive.png)
 
+--- 
 
 ## ⚙️ Setup Instructions  
 
@@ -66,14 +69,6 @@ Right-click on index.html.
 Select "Open with Live Server".
 
 The app will run on http://localhost:5500 (or similar).
-
----
-
-📸 Screenshots
-
-![Dashboard Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/dashboard.png)
-![Charts Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/charts.png)
-![Responsive Screenshot](https://raw.githubusercontent.com/Lohit0404/student-dashboard/main/screenshots/responsive.png)
 
 ---
 
