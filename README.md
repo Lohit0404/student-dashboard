@@ -62,9 +62,9 @@ The app will run on http://localhost:5500 (or similar).
 
 ---
 
-📸 Screenshots
+📸 **Screenshots**
 
-<img width="1901" height="912" alt="Screenshot 2025-08-21 094502" src="https://github.com/user-attachments/assets/52611179-9fd0-402d-b40a-c64282095c33" />
+![Dashboard Screenshot](screenshots/dashboard.png)  
 
 Dashboard
 Charts
