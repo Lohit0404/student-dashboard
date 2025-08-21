@@ -62,24 +62,18 @@ The app will run on http://localhost:5500 (or similar).
 
 ---
 
-📸 **Screenshots**
+📸 Screenshots
 
 ![Dashboard Screenshot](screenshots/dashboard.png)  
-
-Dashboard
-Charts
-Responsive View
+![Charts Screenshot](screenshots/charts.png)  
+![Responsive Screenshot](screenshots/responsive.png)
 
 ---
 
 👨‍💻 Contributors
 
-Lohit
-**GITHUB** – github.com/Lohit0404
-**EMAIL** - lohitthangamani0404@gmail.com
-
----
-
+GITHUB – github.com/Lohit0404
+EMAIL - lohitthangamani0404@gmail.com
 
 ---
 
